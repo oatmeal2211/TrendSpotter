@@ -1,4 +1,4 @@
-# L'Oréal Datathon: Video Trends & View Prediction
+# TrendSpotter: Video Trends & View Prediction for Lo'real Datathon 2025
 
 Analyze YouTube beauty content to uncover trends (emerging vs. established), optimize video duration, and predict video views using a saved ML pipeline.
 
@@ -102,8 +102,4 @@ If a Wikipedia call fails (rate limits/connectivity), the code falls back gracef
 - NLTK stopwords error: run the one‑liner download command shown in Environment Setup.
 - Prediction errors about missing columns: build your input DataFrame with the full set of expected fields shown in the example above.
 - Large figures not showing: rerun the plotting cell or clear outputs and re‑execute the notebook section.
-
-## License
-
-For Datathon/demo use. Add a license if you plan to open‑source or distribute.
 
